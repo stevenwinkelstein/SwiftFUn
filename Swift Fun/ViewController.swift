@@ -3,7 +3,7 @@
 //  Swift Fun
 //
 //  Created by Steven Winkelstein on 11/28/17.
-//  Copyright © 2017 Steven Winkelstein. All rights reserved.
+//  Copyright © 2017 Steven Winkelstein. All rights reserved....
 //
 
 import UIKit
